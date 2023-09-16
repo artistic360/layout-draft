@@ -1,0 +1,40 @@
+body{ 
+        background-image: url(../Media/image/FROG.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+   
+  }
+ 
+  h1{
+    color: black; 
+  font-size:20px;
+  padding: 10px;
+  margin:100px;
+  text-align: center;
+  background-color: white;
+  border: 5px solid midnightblue;
+ }
+.all{
+    position: absolute;
+right:33%;
+bottom:5%;
+}
+
+ .friends{
+    background-color: rgba(3,78,136,0.7);
+    padding: 10px 20px 10px 200px;
+    margin-bottom: 20px;
+ }
+
+ .shop{
+    background-color: rgba(3,78,136,0.7);
+    padding: 10px 20px 10px 200px;
+    margin-bottom: 20px;
+ }
+
+ .collect{
+    background-color: rgba(3,78,136,0.7);
+    padding: 10px 20px 10px 200px;
+    margin-bottom: 20px;
+ }
